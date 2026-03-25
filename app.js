@@ -3,6 +3,5 @@ function saudacao(nome) {
 }
 
 function soma(a, b) {
-return a - b;}
-
+return a + b;
 module.exports = { saudacao, soma };
